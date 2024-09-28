@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "NLW Pocket JavaScript",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

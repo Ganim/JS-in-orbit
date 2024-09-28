@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726253089956,
+      "tag": "0000_sparkling_micromax",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726328656617,
+      "tag": "0001_absent_thor_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726330146313,
+      "tag": "0002_medical_lester",
+      "breakpoints": true
+    }
+  ]
+}
